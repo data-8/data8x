@@ -6,9 +6,11 @@ Now, three award-winning professors have teamed up to offer Data 8X to everybody
 
 Those who enroll in this free online course will:
 - Learn Python 3 and core data science modules such as NumPy.
-- Master statistics concepts such as confidence intervals and sample sizes.
+- Master statistics techniques such as computing confidence intervals.
 - Understand how machine learning allows computers to make smart decisions.
-- Learn to use Jupyter, perhaps the world's most popular data science environment.
+- Use Jupyter, perhaps the world's most popular data science environment.
 - Gain free access to a Google-sponsored compute cloud with all software pre-installed.
+
+All you need is a computer with a web-browser, a few hours per week, and a desire to learn. 
 
 More information: [https://data.berkeley.edu/education/data-8x](https://data.berkeley.edu/education/data-8x)
