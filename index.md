@@ -11,4 +11,4 @@ Students in this free online course will:
 - Use Jupyter, perhaps the world's most popular data science environment.
 - Gain free access to a Google-sponsored course cloud that has all course software and assignments pre-installed.
 
-More information: https://data.berkeley.edu/education/data-8x
+More information: [https://data.berkeley.edu/education/data-8x](https://data.berkeley.edu/education/data-8x)
