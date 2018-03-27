@@ -11,6 +11,6 @@ Those who enroll in this free online course will:
 - Use Jupyter, perhaps the world's most popular data science environment.
 - Gain free access to a Google-sponsored compute cloud with all software pre-installed.
 
-All you need is a computer with a web-browser, a few hours per week, and desire to learn. 
+All you need is a computer with a web-browser, a few hours per week, and high-school algebra.
 
 More information: [https://data.berkeley.edu/education/data-8x](https://data.berkeley.edu/education/data-8x)
