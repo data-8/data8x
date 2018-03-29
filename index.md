@@ -1,5 +1,16 @@
 ## Learn Python Programming & Data Science Together
 
-Berkeley's fastest growing course in history is Foundations of Data Science, an entry-level course that combines introductions to Python programming, statistics, and machine learning. Students who have never programmed before and students with substantial programming experience both take this course in order to understand how programming can be used as a tool for manipulating, visualizing, and understanding data. Now, three award-winning professors have teamed up to bring the course to everyone. You can [enroll for free today on EdX](enroll.html) to experience the same course that thousands of UC Berkeley students choose as their first course in statistics and computer science.
+UC Berkeley's fastest growing course in history is *Foundations of Data Science*, which combines introductions to Python programming, statistics, and machine learning into one course that is designed for first-time programmers. At Berkeley, students who have never programmed before *and* students with substantial programming experience both take this course in order to learn how to manipulate, visualize, and analyze real-world data using state-of-the-art tools. 
 
-<iframe width="480" height="360" src="https://www.youtube.com/embed/rQJ5M0pb3M8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+Now, three award-winning professors have teamed up to offer Data 8X to everybody. You can [enroll for free today on EdX](enroll.html) to experience the same course that thousands of UC Berkeley students have chosen as their introduction to statistics and computer science.
+
+Those who enroll in this free online course will:
+- Learn Python 3 and core data science modules such as NumPy.
+- Master statistics techniques such as computing confidence intervals.
+- Understand how machine learning allows computers to make smart decisions.
+- Use Jupyter, perhaps the world's most popular data science environment.
+- Gain free access to a Google-sponsored compute cloud with all software pre-installed.
+
+All you need is a computer with a web-browser, a few hours per week, and high-school algebra.
+
+More information: [https://data.berkeley.edu/education/data-8x](https://data.berkeley.edu/education/data-8x)
